@@ -9,13 +9,6 @@
             "email": "mehrabesmailnia96@gmail.com"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Toolek\\Message\\MessageServiceProvider"
-            ]
-        }
-    },
     "autoload": {
         "psr-4": {
             "Toolek\\Message\\": "src/"
